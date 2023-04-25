@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Knitser
-- 👀 I’m interested in electronics/software/firmware/iot/cloud/crypto
+- 👀 I’m interested in electronics/software/firmware/iot/cloud/blockchain
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Start ups
 - 📫 How to reach me: michielhamblok@gmail.com
